@@ -1,2 +1,1 @@
-# Devin's Merge Conflict!
-- Conflict A
+some text here
